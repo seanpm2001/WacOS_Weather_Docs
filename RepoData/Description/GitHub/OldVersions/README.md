@@ -1,0 +1,1 @@
+🍏️💾️🖥️🌡️📖️ The official documentation source repository for the Weather application included with the modern WacOS subsystem of WacOS, an open-source alternative to the MacOS Weather application. Part of the WacOS operating system project
